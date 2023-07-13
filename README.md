@@ -16,7 +16,7 @@
 - Gabor filter
 - Histogram of oriented gradients
 
-## homework 5
+## homework 5:
 
 [Kaggle competition](https://www.kaggle.com/competitions/hse-2023-hw-5)
 - CIFAR10 classification
